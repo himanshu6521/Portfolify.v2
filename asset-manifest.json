@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolify.v2/static/css/main.bf538fe7.css",
-    "main.js": "/Portfolify.v2/static/js/main.a4df9152.js",
+    "main.js": "/Portfolify.v2/static/js/main.6dc22087.js",
     "static/media/image2.jpeg": "/Portfolify.v2/static/media/image2.b9f3c81295549698f8e1.jpeg",
     "static/media/reactfolio.png": "/Portfolify.v2/static/media/reactfolio.a11c3ee14c87f92e8318.png",
     "static/media/CGS.png": "/Portfolify.v2/static/media/CGS.0d7a7dec12c7af236ca1.png",
@@ -9,10 +9,10 @@
     "static/media/proEnlist.png": "/Portfolify.v2/static/media/proEnlist.2a761e7b4c3d42e6b853.png",
     "index.html": "/Portfolify.v2/index.html",
     "main.bf538fe7.css.map": "/Portfolify.v2/static/css/main.bf538fe7.css.map",
-    "main.a4df9152.js.map": "/Portfolify.v2/static/js/main.a4df9152.js.map"
+    "main.6dc22087.js.map": "/Portfolify.v2/static/js/main.6dc22087.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.a4df9152.js"
+    "static/js/main.6dc22087.js"
   ]
 }
